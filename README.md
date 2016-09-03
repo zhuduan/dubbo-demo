@@ -1,2 +1,8 @@
 # dubbo-demo
-just a demo used dubbbo
+一个简单的dubbo示例
+
+根据官方文档生成的
+
+1 由于官方文档中的部分链接请求不到，重新根据例子调整后形成了demo的示例程序
+2 dubbo-admin由于JDK1.8以上会存在war包部署出错的情况，根据dubbo git上的issue中的解决方案重新更新了pom进行了构建
+3 因为要单独构建admin和monitor重新修改了pom中的依赖，已经打包成war包在target文件夹中，以方便直接使用
