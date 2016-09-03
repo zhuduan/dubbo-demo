@@ -1,0 +1,17 @@
+com\alibaba\dubbo\monitor\simple\RegistryContainer$1.class
+com\alibaba\dubbo\monitor\simple\pages\ServicesPageHandler.class
+com\alibaba\dubbo\monitor\simple\pages\ConsumersPageHandler.class
+com\alibaba\dubbo\monitor\simple\pages\HostsPageHandler.class
+com\alibaba\dubbo\monitor\simple\pages\UnsubscribePageHandler$NotifyListenerAdapter.class
+com\alibaba\dubbo\monitor\simple\RegistryContainer.class
+com\alibaba\dubbo\monitor\simple\pages\StatisticsPageHandler.class
+com\alibaba\dubbo\monitor\simple\pages\UnsubscribePageHandler.class
+com\alibaba\dubbo\monitor\simple\SimpleMonitorService$1.class
+com\alibaba\dubbo\monitor\simple\pages\ChartsPageHandler.class
+com\alibaba\dubbo\monitor\simple\SimpleMonitorService.class
+com\alibaba\dubbo\monitor\simple\pages\ApplicationsPageHandler.class
+com\alibaba\dubbo\monitor\simple\CountUtils.class
+com\alibaba\dubbo\monitor\simple\SimpleMonitorService$2.class
+com\alibaba\dubbo\monitor\simple\pages\DependenciesPageHandler.class
+com\alibaba\dubbo\monitor\simple\pages\UnregisterPageHandler.class
+com\alibaba\dubbo\monitor\simple\pages\ProvidersPageHandler.class

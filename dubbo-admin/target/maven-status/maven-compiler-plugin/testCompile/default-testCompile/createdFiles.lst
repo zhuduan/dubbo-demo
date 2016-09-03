@@ -1,0 +1,6 @@
+com\alibaba\dubbo\registry\common\domain\PageListTest.class
+com\alibaba\dubbo\registry\common\route\ParseUtilsTest.class
+com\alibaba\dubbo\registry\common\route\RouteRuleUtilsTest.class
+com\alibaba\dubbo\registry\common\route\RouteUtilsTest.class
+com\alibaba\dubbo\registry\common\route\RouteRuleTest.class
+com\alibaba\dubbo\registry\common\util\ToolTest.class
